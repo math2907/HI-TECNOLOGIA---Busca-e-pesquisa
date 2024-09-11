@@ -62,7 +62,7 @@ function pesquisar(){
     }
 
 if(!resultados){
-    resultados = "<p> : Nenhum produto foi encontrado : <p>"
+    resultados = "<p style='text-align: center; color: white;' >: Nenhum produto foi encontrado : <p>"
 
 }
 

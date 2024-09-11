@@ -37,7 +37,7 @@ section input {
     padding: 1rem; /* Espaçamento interno */
     border-radius: 1.5rem; /* Borda arredondada */
     margin-bottom: 2rem; /* Espaçamento abaixo dos inputs */
-    color: #ffffff; /* Cor do texto */
+    color: #000000; /* Cor do texto */
     font-size: 1rem; /* Tamanho da fonte */
     box-sizing: border-box; /* Inclui padding e border na largura total */
 }
@@ -100,7 +100,7 @@ section button:hover {
 
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
-    color: #ffffff; /* Cor do texto */
+    color: #000000; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
@@ -200,6 +200,6 @@ body {
     display: auto;
     justify-content: center;
     align-items: center;
-    background-color: #ffffff;
+    background-color: #f0f0f0;
     padding: 20px;
 }
